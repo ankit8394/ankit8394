@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently exploring React.js
 
-  ![](https://komarev.com/ghpvc/?username=ankit8394&color=blue)
+ [![Profile Views](https://komarev.com/ghpvc/?username=ankit8394&color=green&style=for-the-badge)](https://github.com/ankit8394)
+
 
 <!---
 ankit8394/ankit8394 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
