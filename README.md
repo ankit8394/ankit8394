@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Ankit from India❤️
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://i.imgur.com/jR6uH3u.gif" width="48"></a>, I'm Ankit</h1>
+
 - 👀 I’m interested in Web development
 - 🌱 I’m currently exploring React.js
 
