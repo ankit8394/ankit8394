@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently exploring React.js
 
- [![Profile Views](https://komarev.com/ghpvc/?username=ankit8394&color=green&style=for-the-badge)](https://github.com/ankit8394)
+  [![Profile Views](https://komarev.com/ghpvc/?username=ankit8394&color=blue&style=for-the-badge)](https://github.com/ankit8394)
 
 
 <!---
