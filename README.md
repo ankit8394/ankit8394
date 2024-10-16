@@ -2,7 +2,7 @@
  ✨From crafting responsive websites that dazzle on any device to exploring cutting-edge technologies, I thrive on the exhilarating journey of transforming ideas         into vibrant, functional realities. Together, let’s embark on this adventure of innovation and shape the web of tomorrow! 🚀<br>
 ✨ I’m a frontend developer fueled by curiosity and a passion for creating intuitive user interfaces.<br>
 ✨ Open to new opportunities and challenges – let’s connect!   <br>
-<a href="mailto:ankit0839483@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:ankit0839483@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
 
