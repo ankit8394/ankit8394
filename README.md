@@ -1,5 +1,5 @@
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://i.imgur.com/jR6uH3u.gif" width="48"></a>, I'm Ankit</h1>
- ✨From crafting responsive websites that dazzle on any device to exploring cutting-edge technologies, I thrive on the exhilarating journey of transforming ideas         into vibrant, functional realities. Together, let’s embark on this adventure of innovation and shape the web of tomorrow! 🚀<br>
+<h1 align="center">Hello<a href="https://avipatilweb.ml/"><img src="https://i.imgur.com/jR6uH3u.gif" width="48"></a> I'm Ankit</h1>
+✨ I specialize in building responsive, user-centric websites that perform seamlessly across devices, leveraging the latest technologies to bring ideas to life. Driven by a passion for innovation, I am committed to shaping the future of the web through creative solutions and impactful design. Let’s collaborate and make the web of tomorrow a reality! 🚀<br>
 ✨ I’m a frontend developer fueled by curiosity and a passion for creating intuitive user interfaces.<br>
 ✨ On a mission to make the web a more accessible and enjoyable place, one project at a time.<br>
 ✨ Let’s collaborate and create something extraordinary together!   <br>
